@@ -1,4 +1,4 @@
-# Project Title
+# Queuing System in JS - 2days
 
 ## Resources
 Read or watch:
